@@ -2,6 +2,9 @@
 
 # Jenkins CI/CD Pipeline for Building and Deploying Java Web Applications with GitHub, Jenkins, Maven, Tomcat, and Docker
 
+![image](https://github.com/AshutoshKumar99/Jenkins_End2End_Pipeline_DeployWarToTomcat/assets/29033951/c9ea889e-880c-4639-9204-c042eae8d01c)
+
+
 Automate the build and deployment of your Java web applications with this Jenkins pipeline. This robust CI/CD solution leverages Docker as an agent for streamlined, consistent, and efficient deployment to an Apache Tomcat server.
 This Jenkins pipeline automates the build and deployment process for a Java web application to an Apache Tomcat server. It utilizes Docker containers for isolation and is triggered by GitHub pushes to the main branch.
 
