@@ -11,7 +11,7 @@ pipeline {
     stages {
         stage('Git checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/AshutoshKumar99/Updated_Jenkins_Deploy_War_to_Tomcat'
+                git branch: 'main', url: 'https://github.com/AshutoshKumar99/Jenkins_End2End_Pipeline_DeployWarToTomcat.git'
             }
         }
 
