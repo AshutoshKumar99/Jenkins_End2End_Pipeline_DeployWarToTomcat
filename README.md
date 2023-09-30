@@ -46,7 +46,7 @@ The Jenkins pipeline consists of the following stages:
    - The generated WAR file is archived, making it accessible for future reference and deployment.
 
 5. **Deploy WAR to Tomcat**:
-   - The pipeline deploys the WAR file to an Apache Tomcat server using SSH and SCP, ensuring a seamless deployment process.
+   - The pipeline deploys the WAR file to an Apache Tomcat server using SSH and SCP, ensuring a seamless deployment process. Access your application using http://3.108.65.55:8080/myweb-0.0.5/ 
 
 ## Usage
 
